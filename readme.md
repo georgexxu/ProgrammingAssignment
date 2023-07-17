@@ -6,4 +6,3 @@ Three examples are covered. The detailed programming exercises are in the pdf fi
 3. Use an orthogonal greedy algorithm to train ReLU shallow neural networks for 1D $L^2$ fitting tasks. (L2Fitting1D_OGA.ipynb)
 
 The two other files code_explanation_gd.ipynb, code_explanation_oga.ipynb are the computer session materials that break down the code in L2Fitting1D_GD.ipynb, L2Fitting1D_OGA.ipynb into easily accessible parts for teaching purposes. 
-
