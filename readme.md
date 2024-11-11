@@ -9,3 +9,7 @@ Three examples are covered. The detailed programming exercises are in the pdf fi
 
 The two other files code_explanation_gd.ipynb, code_explanation_oga.ipynb are the computer session materials that break down the code in L2Fitting1D_GD.ipynb, L2Fitting1D_OGA.ipynb into easily accessible parts for teaching purposes. 
 
+
+UPDATE in 2024. 
+The code is used for a computer session of the course AMCS304, Deep learning and analysis, taught by Prof. Jinchao Xu at KAUST. 
+Some functions are optimized in this updated version. 
