@@ -2,6 +2,7 @@
 UPDATE in 2024 Nov 11th. 
 The code is used for a computer session of the course AMCS304, Deep learning and analysis, taught by Prof. Jinchao Xu at KAUST. 
 Some functions are optimized in this updated version. 
+Added a 1D Neumann problem as a demonstration for solving PDEs. 
 
 
 This repository contains code for the programming assignment from the summer lectures by Prof. Jinchao Xu at CIRM, Marseille, France, July 18th 2023. 
